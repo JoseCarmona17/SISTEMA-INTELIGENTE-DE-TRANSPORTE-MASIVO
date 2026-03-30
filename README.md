@@ -1,9 +1,7 @@
 # Sistema Inteligente de Transporte Masivo
 
 ## Integrantes
-- Nombre 1
-- Nombre 2
-- Nombre 3
+- Jose Andres de la Ossa Carmona
 
 ## Descripción
 Sistema basado en reglas lógicas que utiliza búsqueda heurística (A*) para encontrar la mejor ruta.
